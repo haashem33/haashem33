@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there! I See that you are stalking me 👋
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: You can reach out to me via Linkedin :=)
+- ⚡ Fun fact: Every day is an opportunity for new challenges and a reminder to make the most of life. What you do with it is up to you.
 <!--
 **haashem33/haashem33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
